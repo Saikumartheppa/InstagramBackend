@@ -30,7 +30,7 @@ The following dependencies are required to run the project:
 * Validation
 * javax -mail
 * Swagger
-
+---
 
 
 ## Database Configuration
