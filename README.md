@@ -32,6 +32,7 @@ The following dependencies are required to run the project:
 * Swagger
 
 
+
 ## Database Configuration
 To connect to a MySQL database, update the application.properties file with the appropriate database URL, username, and password. The following properties need to be updated:
 ```
